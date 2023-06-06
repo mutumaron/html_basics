@@ -1,0 +1,38 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    border: 1px solid darkgreen;
+    border-radius: 5px;
+    padding: 20px;
+
+}
+.container h2{
+    text-align: center;
+}
+.form-group{
+    margin-bottom: 20px;
+}
+.form-group label{
+    margin-top: 5px;
+    display: block;
+    font-weight: bold;
+}
+.form-group input{
+    width: 95%;
+    border: 1px solid cadetblue;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.form-group button{
+    width: 100%;
+    padding: 10px;
+    color: white;
+    border: none;
+    background-color: brown;
+    border-radius: 5px;
+}
+.form-group button:hover{
+    background-color: black;
+}

@@ -1,0 +1,38 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: crimson;
+}
+li {
+    float: left;
+    text-align: left;
+    text-decoration: none;
+    display: block;
+}
+li,a{
+    padding: 20px ;
+}
+li:hover{ background-color: #525d72
+}
+h3 { text-align: center
+}
+a{
+    color: white;
+}
+#matunda{
+    background-color: khaki;
+    border: 5px doted chartreuse;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+
+}
+#magari{
+    background-color: green;
+    border: 5px dotted ;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}

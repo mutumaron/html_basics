@@ -1,0 +1,45 @@
+.fruits{
+    background-color: darkred;
+    border: 2px dotted #c3ff05;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+
+}
+.cars{
+    background-color: darkkhaki;
+    padding: 20px;
+    text-align: center;
+    border: 2px dotted indigo;
+    margin: 20px;
+    font-style: italic;
+    color: white;
+}
+.FRUITS{
+    background-color:  darkorange;
+    margin: 20px;
+    text-align: center;
+    border: 2px solid red;
+    padding: 20px;
+    font-style: oblique;
+    color: white;
+}
+#gari{
+    background-color: #525d72;
+    color: white;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-style: italic;
+    border: 2px dotted darkred;
+
+}
+#matunda{
+    background-color: #c3ff05;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-style: italic;
+    border: 2px dotted purple;
+}
